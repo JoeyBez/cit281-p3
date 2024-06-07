@@ -1,6 +1,6 @@
 # Project 3
 
-Project 3 was the introduction to fastify, and how to use the request query to gather data.
+Project 3 was the introduction to fastify, and how to use the request query to gather data. Another addition to it was how to use an HTML file as the main page in fastify. Error handling included.
 ```ruby
 const fs = require('fs');
 const fastify = require("fastify")();
